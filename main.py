@@ -8,4 +8,5 @@ print("selamat malam")
 
 print("halooooooooo")
 print ("selamat siang")
+print("halooooo")
 
